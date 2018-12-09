@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\gaute\\Development\\AdventOfCode2018\\day8\\day8.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
