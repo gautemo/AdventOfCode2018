@@ -1,0 +1,1 @@
+class Instruction(var opcode: Int, var i1: Int, var i2: Int, var output: Int)
